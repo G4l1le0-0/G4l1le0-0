@@ -2,7 +2,7 @@
 <p align="center">Pentester em formação | Apaixonado por Segurança da Informação</p>
 <p align="center">Atualmente a cursar o Bootcamp de Python da DIO em parceria com o Santander.</p>
 
-<h2 align="center"> 💻Conecte-se Comigo</h2>
+<h2 align="center">💻 Conecte-se Comigo</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/nathan-silva-duarte-844547224/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -47,10 +47,14 @@
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-🐍 F3nix - API de Gestão
+<h3 align="center">🐍 F3nix - API de Gestão</h3>
+<blockquote>
 Este projeto foi desenvolvido como parte da minha aprendizagem em Python e FastAPI. Demonstra as minhas habilidades na criação de endpoints RESTful, integração com bases de dados SQL e documentação de APIs.
+</blockquote>
 
-🔗 [Clique aqui para ver o repositório](https://github.com/G4l1le0-0/F3nix)
+<p align="center">
+🔗 <strong><a href="https://github.com/G4l1le0-0/F3nix">Clique aqui para ver o repositório</a></strong>
+</p>
 
 <h2 align="center">📖 Cursos e Formação</h2>
 <div align="center">
